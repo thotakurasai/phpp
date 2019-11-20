@@ -1,0 +1,102 @@
+
+.form-div {
+	margin: 50px auto 50px;
+	padding: 25px 15px 10px 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+form p{
+	font-size: .89em;
+}
+
+.form-div login{
+	margin: 50px auto 50px;
+	padding: 25px 15px 10px 15px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+.form-div login1{
+	margin: 25px
+	padding: 25px 15px 10px 15px;
+	border: 1px solid black;
+	border-radius: 10px;}   
+
+.container_1{
+	margin: 25px auto 25px;
+	padding: 25px 15px 10px 15px;
+}
+
+.logout{
+	color: red;
+}
+
+h3{
+	color:white;
+}
+
+  .bs-header-base{
+	width:100%;
+	height:90px;
+	position:absolute;
+	top:0;
+	left:0;
+	color:white;
+	z-index:7;
+	font-family:verdana;
+	-webkit-box-shadow: 0 3px 8px rgba(0, 0, 0, .25);
+}
+  .bs-header{
+	width:100%;
+	height:64px;
+	position:absolute;
+	background: white;
+	top:0;
+	left:0;
+	color:white;
+	z-index:7;
+	font-family:verdana;
+	
+}
+.user-container{
+	margin: 10px;
+	padding: 25px;
+	width: 400px;
+	overflow: hidden;
+	color: white;
+	
+}
+.user-container img{
+	float:left;
+	width:60px;
+	color: white;
+}
+.user-container div{
+	float: left;
+	color: white;
+}
+  body{
+	background-image: url("258623E20F315174.jpg");
+	
+	height:900px;
+	background-repeat: no-repeat;
+	
+	
+}
+
+.bs-body-footer{
+	width:10%;
+	position:absolute;
+	left:700px;
+	height:100px;
+	top:1000px;
+	
+}
+#bs-body-footer-base{
+	width:900px;
+	top:20px;
+	left:2000px;
+	color: gold;
+	height:50px;
+}
+
